@@ -25,3 +25,5 @@ https://github.com/aatimofeev/spacy_russian_tokenizer
 
 что есть в ms sql server
 https://docs.microsoft.com/ru-ru/sql/sql-server/what-s-new-in-sql-server-2017?view=sql-server-ver15
+
+https://github.com/Microsoft/sql-server-samples/tree/master/samples
