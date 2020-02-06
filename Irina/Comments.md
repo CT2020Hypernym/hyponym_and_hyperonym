@@ -22,3 +22,6 @@ https://docs.google.com/document/d/1JI9nWJfTEB4NA5nqVBiaGxkQFFLXoev0811xt7-4USk/
 
 русский space, токенайзер для русского языка
 https://github.com/aatimofeev/spacy_russian_tokenizer
+
+что есть в ms sql server
+https://docs.microsoft.com/ru-ru/sql/sql-server/what-s-new-in-sql-server-2017?view=sql-server-ver15
